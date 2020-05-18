@@ -10,8 +10,7 @@ public class Classroom {
 
         Wilder anita= new Wilder("Anita", false);
 
-        System.out.println(anita
-                .whoAmI());
+        System.out.println(anita.whoAmI());
 
     }
 }
