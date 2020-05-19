@@ -3,8 +3,8 @@ package classTestWCS;
 public class Wilder {
 
     //Attributes
-    String firstName;
-    boolean aware;
+    private String firstName;
+    private boolean aware;
 
     //Constructors
     public Wilder(String firstName, boolean aware){
